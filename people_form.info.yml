@@ -1,0 +1,5 @@
+name: People
+description: Create a basic form page in Drupal 8.
+core: 8.x
+package: Form
+type: module
